@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrandyMcKinney
-- 👀 I’m interested in baking, rollerblading, music, coffee & designing.
-- 🌱 I’m currently learning how to code!
-- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 👀 Baking is my jam, rollerblading soothes me, music all day, also coffee & designing.
+- 🌱 I’m currently diving deeper in my coding journey.
 
 
 <!---
