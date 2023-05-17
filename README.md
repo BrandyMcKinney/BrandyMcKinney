@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandyMcKinney
-- 👀 Baking is my jam, rollerblading soothes me, music all day, also coffee & designing.
-- 🌱 I’m currently diving deeper in my coding journey and working towards landing my first role as a software developer!
+- 🌱 I am a full-stack bootcamp graduate who is diving deeper in my coding journey and working towards landing my first role as a software              developer!
+- 👀 Baking is my jam, rollerblading soothes me, good music all day and nothing like a good cup of coffee.
 
 
 <!---
