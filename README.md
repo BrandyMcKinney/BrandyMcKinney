@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Brandy, a junior developer continuing to dive deeper in my software development journey.
+# 👋 Hi, I’m Brandy, a software developer, diving deeper in my software development journey.
 
 * I enjoy working with Python and prefer backend development 
-* Currently, I'm exploring AWS Cloud
+* Currently, exploring AWS Cloud
 * Continuing to build projects in Python
-* Building (small) communities.
-* I'm a coffee lover and cat mama
+* Building (small) communities
+* A coffee lover and cat mama
 
 
 
