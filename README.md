@@ -1,9 +1,8 @@
-# 👋 Hi, I’m Brandy, a software developer, diving deeper in my software development journey.
+# 👋 Hi, I’m Brandy. A software developer who is continuing to learn through building & courses.
 
-* I enjoy working with Python and prefer backend development 
-* Currently, exploring AWS Cloud
-* Continuing to build projects in Python
-* Building (small) communities
+* enjoy working with Python and prefer backend development 
+* learning Python Automation, Testing, Docker
+* love building (small) communities
 * A coffee lover and cat mama
 
 
