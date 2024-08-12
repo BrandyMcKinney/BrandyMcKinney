@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brandy. A software developer who is continuing to learn through building & courses.
+# 👋 Hi, I’m Brandy. An aspiring developer committed to continuous improvement, combining practical experience with structured learning.
 
 * enjoy working with Python and prefer backend development 
 * learning Python Automation, Testing, Docker
