@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Brandy. An aspiring developer committed to continuous improvement, combining practical experience with structured learning.
 
-* I enjoy working with Python and prefer backend development 
-* Currently, learning IT Automation and Testing
-* I love building (small) communities and connecting people
-* I'm a coffee lover and cat mama
+* I enjoy working with Python and prefer backend development.
+* Currently, learning IT Automation and Testing.
+* I love building (small) communities and connecting people.
+* I'm a coffee lover and cat mama.
 
 
 
