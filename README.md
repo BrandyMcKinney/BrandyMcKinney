@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brandy. An aspiring developer committed to continuous improvement, combining practical experience with structured learning.
+# 👋 Hi, I’m Brandy. A developer committed to continuous improvement by combining practical experience with structured learning.
 
 * I enjoy working with Python and prefer backend development.
 * Currently, learning IT Automation and Testing.
